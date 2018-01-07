@@ -1,5 +1,6 @@
-This is my exercise for learning Socket.IO
-Source : https://laracasts.com/series/real-time-laravel-with-socket-io/episodes/1
+This is my exercise for learning Socket.IO  
+Source :  
+https://laracasts.com/series/real-time-laravel-with-socket-io/episodes/1
 
 Installation : 
 1. Install git and node.js on machine
